@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YasshhYadav
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
 LinkedIn : www.linkedin.com/in/yasshhyadav
 Twitter : www.twitter.com/YasshhYadav
