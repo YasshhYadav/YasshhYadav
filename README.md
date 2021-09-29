@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YasshhYadav
-- 👀 I’m interested in programming
+- 👀 I’m interested in front end web-development!
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : 
 LinkedIn : www.linkedin.com/in/yasshhyadav
