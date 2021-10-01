@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YasshhYadav
-- 👀 I’m interested in front end web-development!
+- 👋 Hi, I'm Yash Yadav.
+- 👀 I'm a Front-end Web Developer.
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : 
 LinkedIn : www.linkedin.com/in/yasshhyadav
