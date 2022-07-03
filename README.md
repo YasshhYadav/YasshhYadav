@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Yash Yadav.
 - 👀 I'm a Front-end Web Developer.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently into Web3.
 - 📫 How to reach me : 
 LinkedIn : www.linkedin.com/in/yasshhyadav
 Twitter : www.twitter.com/YasshhYadav
